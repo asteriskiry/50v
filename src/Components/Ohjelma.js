@@ -18,7 +18,8 @@ class Ohjelma extends Component {
                       The cocktail party consists of welcome toast, appetizers,
                       and greetings from invited guests. All participants of the
                       annual ball are welcome to attend the event.
-                      Transportation to the main event will be arranged.
+                      Transportation to the main event will leave from Naturankuja at 17.00.
+                      You can also arrive straight to the main event.
                     </p>
                   </div>
                   <div className="ohjelma-sponsori-osio">
@@ -90,6 +91,7 @@ class Ohjelma extends Component {
                     <p>
                       Bus transportation will take us to the afterparty in a
                       secret location after the main event has ended.
+                      The buses will return us back close to University around 03.00 and 04.00.
                     </p>
                   </div>
                   <div className="ohjelma-sponsori-osio">
@@ -127,8 +129,9 @@ class Ohjelma extends Component {
                     </p>
                     <p>
                       We will move to Sillis by bus on Sunday morning. The buses
-                      to sillis leave at 11:00 and 12:00 from Proffan Kellari.
-                      Be on time!
+                      to sillis leave at 11:00 and 12:00 from Vesilinnantie 5.
+                      Be on time! The buses back from the Sillis arrive at the University
+                      around 17.30 and 18.30.
                     </p>
                   </div>
                   <div className="ohjelma-sponsori-osio">
@@ -160,12 +163,13 @@ class Ohjelma extends Component {
                     <p>
                       Pääjuhlaa edeltää cocktail-tilaisuus, joka pidetään Turun
                       yliopiston päärakennuksessa (Henrikinkatu 2, 20500 Turku)
-                      kello 14:30 alkaen. Cocktail-tilaisuuden ohjelmaan kuuluu
+                      kello 14.30 alkaen. Cocktail-tilaisuuden ohjelmaan kuuluu
                       tervetuliaismalja, cocktailpalat sekä kutsuvieraiden
                       esittämät tervehdykset Asteriskille. Kaikki
                       vuosijuhlaosallistujat ovat tervetulleita seuraamaan
                       tilaisuutta. Cocktail-tilaisuudesta lähtee kuljetukset
-                      itse pääjuhlaan.
+                      itse pääjuhlaan klo 17.00 osoitteesta Naturankuja.
+                      Voit myös saapua suoraan pääjuhlaan.
                     </p>
                   </div>
                   <div className="ohjelma-sponsori-osio">
@@ -193,7 +197,7 @@ class Ohjelma extends Component {
                     <p>
                       Asteriskin 50-vuotisjuhlien pääjuhlaa vietetään Turun
                       VPK:n talolla (Eskelinkatu 5, 20100 Turku). Ovet
-                      tilaisuuteen avataan klo 17:00 ja itse pääjuhla alkaa klo
+                      tilaisuuteen avataan klo 17.00 ja itse pääjuhla alkaa klo
                       18:00. Juhlassa kunnioitamme rakasta ainejärjestöämme
                       puhein ja tervehdyksin. Lisäksi nautimme kolmen ruokalajin
                       illallisen ja jaamme tunnustuksia henkilöille, jotka ovat
@@ -237,7 +241,8 @@ class Ohjelma extends Component {
                     <h3>Jatkot</h3>
                     <p>
                       Pääjuhlan loputtua vieraat kuljetetaan salaiseen
-                      jatkopaikkaan.
+                      jatkopaikkaan. Jatkoilta on bussikuljetukset takaisin keskustaan ja yliopistolle.
+                      Kuljetukset saapuvat yliopistolle noin klo 03.00 ja 04.00.
                     </p>
                   </div>
                   <div className="ohjelma-sponsori-osio">
@@ -277,9 +282,10 @@ class Ohjelma extends Component {
                     <p>
                       Sillikselle kuljemme yhteisellä bussikuljetuksella
                       sunnuntaina. Bussit sillikselle lähtevät kello 11:00 ja
-                      12:00 Proffan Kellarin edestä. Ole ajoissa paikalla sillä
+                      12:00 osoitteesta Vesilinnantie 5. Ole ajoissa paikalla sillä
                       bussit ei odota myöhästelijöitä! Sillistä varten kannattaa
                       varata rento asu.
+                      Kuljetukset sillikselt yliopistolle ovat perillä noin 17.30 ja 18.30.
                     </p>
                   </div>
                   <div className="ohjelma-sponsori-osio">
